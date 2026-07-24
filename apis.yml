@@ -1,8 +1,25 @@
 aid: bipar-sciences
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bipar-sciences.png
 name: Bipar Sciences
-description: Bipar Sciences is a company surfaced as a portfolio company of canaan-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'BiPar Sciences was a Brisbane, California biopharmaceutical company developing
+  a tumor-selective class of PARP (poly ADP-ribose polymerase) inhibitors for cancer therapy.
+  Its lead candidate, BSI-201 (iniparib), was in mid-stage trials for advanced breast, ovarian,
+  and other tumors. Backed by Canaan Partners, Vulcan Capital, PolyTechnos, Asset Management
+  Company, and Quantum Technology Partners, BiPar was acquired by Sanofi-Aventis for roughly
+  $500 million in April 2009 and no longer operates as an independent company. It was surfaced
+  as a Canaan Partners portfolio company and added to the API Evangelist network as a stub;
+  enrichment finds no public developer or API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/bipar-sciences/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,12 +29,24 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Biopharmaceutical
+- Oncology
+- Pharmaceuticals
+- PARP Inhibitors
+- Clinical Trials
+- Acquired
+- Life Sciences
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
