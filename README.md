@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bipar Sciences is a company surfaced as a portfolio company of canaan-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+BiPar Sciences was a Brisbane, California biopharmaceutical company developing a tumor-selective class of PARP (poly ADP-ribose polymerase) inhibitors for cancer therapy. Its lead candidate, BSI-201 (iniparib), was in mid-stage trials for advanced breast, ovarian, and other tumors. Backed by Canaan Partners, Vulcan Capital, PolyTechnos, Asset Management Company, and Quantum Technology Partners, BiPar was acquired by Sanofi-Aventis for roughly $500 million in April 2009 and no longer operates as an independent company. It was surfaced as a Canaan Partners portfolio company and added to the API Evangelist network as a stub; enrichment finds no public developer or API surface.
 
-Backed by: canaan-partners
+**Areas:** Company · Biopharmaceutical · Oncology · Pharmaceuticals · PARP Inhibitors · Clinical Trials · Acquired · Life Sciences
+
+## Bipar Sciences on APIs.io
+
+Everything profiled for Bipar Sciences is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bipar-sciences/](https://apis.io/providers/bipar-sciences/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bipar Sciences: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bipar-sciences/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
